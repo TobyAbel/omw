@@ -1,0 +1,1 @@
+http://compling.hss.ntu.edu.sg/omw/summx.html - Extended Open Multilingual Wordnet - Wordnet data http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz = http://compling.hss.ntu.edu.sg/omw/wn-wikt.zip = http://compling.hss.ntu.edu.sg/omw/wn-wikt.tar.bz2 - 
