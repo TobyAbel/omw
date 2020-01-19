@@ -1,0 +1,903 @@
+--2020-01-20 03:51:00--  http://compling.hss.ntu.edu.sg/omw/
+Resolving compling.hss.ntu.edu.sg (compling.hss.ntu.edu.sg)... 155.69.254.223
+Connecting to compling.hss.ntu.edu.sg (compling.hss.ntu.edu.sg)|155.69.254.223|:80... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+Loading robots.txt; please ignore errors.
+--2020-01-20 03:51:01--  http://compling.hss.ntu.edu.sg/robots.txt
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:01--  http://compling.hss.ntu.edu.sg/omw/summx.html
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:01--  http://compling.hss.ntu.edu.sg/omw/doc.html
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:02--  http://compling.hss.ntu.edu.sg/omw/news.html
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:02--  http://compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?gridmode=grid
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?gridmode=grid'
+
+     0K ....                                                   2.85M=0.002s
+
+2020-01-20 03:51:02 (2.85 MB/s) - 'compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?gridmode=grid' saved [4659]
+
+--2020-01-20 03:51:02--  http://compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?gridmode=gridx
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?gridmode=gridx'
+
+     0K .......... ........                                    61.4K=0.3s
+
+2020-01-20 03:51:03 (61.4 KB/s) - 'compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?gridmode=gridx' saved [18567]
+
+--2020-01-20 03:51:03--  http://compling.hss.ntu.edu.sg/omw/wns/als/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:03--  http://compling.hss.ntu.edu.sg/omw/wns/als.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:04--  http://compling.hss.ntu.edu.sg/omw/wns/als+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:04--  http://compling.hss.ntu.edu.sg/omw/wns/als/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:04--  http://compling.hss.ntu.edu.sg/omw/wns/arb/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:05--  http://compling.hss.ntu.edu.sg/omw/wns/arb.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:05--  http://compling.hss.ntu.edu.sg/omw/wns/arb+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:05--  http://compling.hss.ntu.edu.sg/omw/wns/arb/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:05--  http://compling.hss.ntu.edu.sg/omw/wns/bul/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:06--  http://compling.hss.ntu.edu.sg/omw/wns/bul.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:06--  http://compling.hss.ntu.edu.sg/omw/wns/bul+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:06--  http://compling.hss.ntu.edu.sg/omw/wns/bul/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:07--  http://compling.hss.ntu.edu.sg/omw/wns/cmn/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:07--  http://compling.hss.ntu.edu.sg/omw/wns/cmn.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:07--  http://compling.hss.ntu.edu.sg/omw/wns/cmn+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:07--  http://compling.hss.ntu.edu.sg/omw/wns/cmn/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:08--  http://compling.hss.ntu.edu.sg/omw/wns/qcn/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:08--  http://compling.hss.ntu.edu.sg/omw/wns/qcn.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:08--  http://compling.hss.ntu.edu.sg/omw/wns/qcn+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:09--  http://compling.hss.ntu.edu.sg/omw/wns/qcn/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:09--  http://compling.hss.ntu.edu.sg/omw/wns/dan/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:09--  http://compling.hss.ntu.edu.sg/omw/wns/dan.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:10--  http://compling.hss.ntu.edu.sg/omw/wns/dan+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:10--  http://compling.hss.ntu.edu.sg/omw/wns/dan/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:10--  http://compling.hss.ntu.edu.sg/omw/wns/ell/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:10--  http://compling.hss.ntu.edu.sg/omw/wns/ell.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:11--  http://compling.hss.ntu.edu.sg/omw/wns/ell+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:11--  http://compling.hss.ntu.edu.sg/omw/wns/ell/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:11--  http://compling.hss.ntu.edu.sg/omw/wns/eng/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:12--  http://compling.hss.ntu.edu.sg/omw/wns/eng.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:12--  http://compling.hss.ntu.edu.sg/omw/wns/eng+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:12--  http://compling.hss.ntu.edu.sg/omw/wns/eng/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:13--  http://compling.hss.ntu.edu.sg/omw/wns/fas/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:13--  http://compling.hss.ntu.edu.sg/omw/wns/fas.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:13--  http://compling.hss.ntu.edu.sg/omw/wns/fas+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:13--  http://compling.hss.ntu.edu.sg/omw/wns/fas/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:14--  http://compling.hss.ntu.edu.sg/omw/wns/fin/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:14--  http://compling.hss.ntu.edu.sg/omw/wns/fin.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:14--  http://compling.hss.ntu.edu.sg/omw/wns/fin+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:15--  http://compling.hss.ntu.edu.sg/omw/wns/fin/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:15--  http://compling.hss.ntu.edu.sg/omw/wns/fra/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:15--  http://compling.hss.ntu.edu.sg/omw/wns/fra.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:16--  http://compling.hss.ntu.edu.sg/omw/wns/fra+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:16--  http://compling.hss.ntu.edu.sg/omw/wns/fra/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:16--  http://compling.hss.ntu.edu.sg/omw/wns/heb/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:17--  http://compling.hss.ntu.edu.sg/omw/wns/heb.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:17--  http://compling.hss.ntu.edu.sg/omw/wns/heb+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:17--  http://compling.hss.ntu.edu.sg/omw/wns/heb/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:18--  http://compling.hss.ntu.edu.sg/omw/wns/hrv/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:18--  http://compling.hss.ntu.edu.sg/omw/wns/hrv.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:18--  http://compling.hss.ntu.edu.sg/omw/wns/hrv+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:19--  http://compling.hss.ntu.edu.sg/omw/wns/hrv/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:19--  http://compling.hss.ntu.edu.sg/omw/wns/isl/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:19--  http://compling.hss.ntu.edu.sg/omw/wns/isl.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:20--  http://compling.hss.ntu.edu.sg/omw/wns/isl+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:20--  http://compling.hss.ntu.edu.sg/omw/wns/ita/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:21--  http://compling.hss.ntu.edu.sg/omw/wns/ita.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:21--  http://compling.hss.ntu.edu.sg/omw/wns/ita+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:21--  http://compling.hss.ntu.edu.sg/omw/wns/ita/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:22--  http://compling.hss.ntu.edu.sg/omw/wns/iwn/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-01-20 03:51:22 ERROR 404: Not Found.
+
+--2020-01-20 03:51:22--  http://compling.hss.ntu.edu.sg/omw/wns/jpn/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:22--  http://compling.hss.ntu.edu.sg/omw/wns/jpn.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:23--  http://compling.hss.ntu.edu.sg/omw/wns/jpn+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:23--  http://compling.hss.ntu.edu.sg/omw/wns/jpn/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:23--  http://compling.hss.ntu.edu.sg/omw/wns/cat/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:24--  http://compling.hss.ntu.edu.sg/omw/wns/cat.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:24--  http://compling.hss.ntu.edu.sg/omw/wns/cat+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:24--  http://compling.hss.ntu.edu.sg/omw/wns/cat/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:25--  http://compling.hss.ntu.edu.sg/omw/wns/eus/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:25--  http://compling.hss.ntu.edu.sg/omw/wns/eus.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:26--  http://compling.hss.ntu.edu.sg/omw/wns/eus+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:26--  http://compling.hss.ntu.edu.sg/omw/wns/eus/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:27--  http://compling.hss.ntu.edu.sg/omw/wns/glg/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:27--  http://compling.hss.ntu.edu.sg/omw/wns/glg.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:27--  http://compling.hss.ntu.edu.sg/omw/wns/glg+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:28--  http://compling.hss.ntu.edu.sg/omw/wns/glg/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:28--  http://compling.hss.ntu.edu.sg/omw/wns/spa/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:29--  http://compling.hss.ntu.edu.sg/omw/wns/spa.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:29--  http://compling.hss.ntu.edu.sg/omw/wns/spa+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:30--  http://compling.hss.ntu.edu.sg/omw/wns/spa/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:30--  http://compling.hss.ntu.edu.sg/omw/wns/ind/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:31--  http://compling.hss.ntu.edu.sg/omw/wns/ind.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:31--  http://compling.hss.ntu.edu.sg/omw/wns/ind+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:31--  http://compling.hss.ntu.edu.sg/omw/wns/ind/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:32--  http://compling.hss.ntu.edu.sg/omw/wns/zsm/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:32--  http://compling.hss.ntu.edu.sg/omw/wns/zsm.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:33--  http://compling.hss.ntu.edu.sg/omw/wns/zsm+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:33--  http://compling.hss.ntu.edu.sg/omw/wns/zsm/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:33--  http://compling.hss.ntu.edu.sg/omw/wns/nld/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:34--  http://compling.hss.ntu.edu.sg/omw/wns/nld.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:34--  http://compling.hss.ntu.edu.sg/omw/wns/nld+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:35--  http://compling.hss.ntu.edu.sg/omw/wns/nld/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:35--  http://compling.hss.ntu.edu.sg/omw/wns/nno/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:36--  http://compling.hss.ntu.edu.sg/omw/wns/nno.zip
+Connecting to compling.hss.ntu.edu.sg (compling.hss.ntu.edu.sg)|155.69.254.223|:80... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:36--  http://compling.hss.ntu.edu.sg/omw/wns/nno+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:36--  http://compling.hss.ntu.edu.sg/omw/wns/nno/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:37--  http://compling.hss.ntu.edu.sg/omw/wns/nob/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:37--  http://compling.hss.ntu.edu.sg/omw/wns/nob.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:37--  http://compling.hss.ntu.edu.sg/omw/wns/nob+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:38--  http://compling.hss.ntu.edu.sg/omw/wns/nob/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:38--  http://compling.hss.ntu.edu.sg/omw/wns/pol/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:38--  http://compling.hss.ntu.edu.sg/omw/wns/pol.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:39--  http://compling.hss.ntu.edu.sg/omw/wns/pol+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:39--  http://compling.hss.ntu.edu.sg/omw/wns/pol/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:39--  http://compling.hss.ntu.edu.sg/omw/wns/por/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:39--  http://compling.hss.ntu.edu.sg/omw/wns/por.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:40--  http://compling.hss.ntu.edu.sg/omw/wns/por+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:40--  http://compling.hss.ntu.edu.sg/omw/wns/por/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:40--  http://compling.hss.ntu.edu.sg/omw/wns/ron/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:41--  http://compling.hss.ntu.edu.sg/omw/wns/ron.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:41--  http://compling.hss.ntu.edu.sg/omw/wns/ron+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:41--  http://compling.hss.ntu.edu.sg/omw/wns/ron/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:41--  http://compling.hss.ntu.edu.sg/omw/wns/lit/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:42--  http://compling.hss.ntu.edu.sg/omw/wns/lit.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:42--  http://compling.hss.ntu.edu.sg/omw/wns/lit+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:42--  http://compling.hss.ntu.edu.sg/omw/wns/lit/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:43--  http://compling.hss.ntu.edu.sg/omw/wns/slk/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:43--  http://compling.hss.ntu.edu.sg/omw/wns/slk.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:43--  http://compling.hss.ntu.edu.sg/omw/wns/slk+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:44--  http://compling.hss.ntu.edu.sg/omw/wns/slv/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:44--  http://compling.hss.ntu.edu.sg/omw/wns/slv.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:44--  http://compling.hss.ntu.edu.sg/omw/wns/slv+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:44--  http://compling.hss.ntu.edu.sg/omw/wns/slv/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:45--  http://compling.hss.ntu.edu.sg/omw/wns/swe/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:45--  http://compling.hss.ntu.edu.sg/omw/wns/swe.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:45--  http://compling.hss.ntu.edu.sg/omw/wns/swe+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:46--  http://compling.hss.ntu.edu.sg/omw/wns/swe/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:46--  http://compling.hss.ntu.edu.sg/omw/wns/tha/LICENSE
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:46--  http://compling.hss.ntu.edu.sg/omw/wns/tha.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:46--  http://compling.hss.ntu.edu.sg/omw/wns/tha+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:47--  http://compling.hss.ntu.edu.sg/omw/wns/tha/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:47--  http://compling.hss.ntu.edu.sg/omw/all.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:47--  http://compling.hss.ntu.edu.sg/omw/all+xml.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:48--  http://compling.hss.ntu.edu.sg/omw/code.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:48--  http://compling.hss.ntu.edu.sg/omw/wn30-core-synsets.tab
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:48--  http://compling.hss.ntu.edu.sg/omw/www.globalwordnet.org/
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-01-20 03:51:49 ERROR 404: Not Found.
+
+--2020-01-20 03:51:49--  http://compling.hss.ntu.edu.sg/omw/wns/citation.bib
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:49--  http://compling.hss.ntu.edu.sg/omw/index.html
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:49--  http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:49--  http://compling.hss.ntu.edu.sg/omw/wn-wikt.zip
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:50--  http://compling.hss.ntu.edu.sg/omw/wn-wikt.tar.bz2
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
+--2020-01-20 03:51:50--  http://compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi
+Reusing existing connection to compling.hss.ntu.edu.sg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi'
+
+     0K ....

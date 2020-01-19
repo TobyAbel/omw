@@ -1,0 +1,6 @@
+User-agent: PiplBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
