@@ -18,4 +18,4 @@ Original data file:
 
 ## Part 2. A backup of entire web folder http://compling.hss.ntu.edu.sg/omw/ - Open Multilingual Wordnet
 
-See the folder omw/compling.hss.ntu.edu.sg/omw/
+See the folder https://github.com/pragmatic-strain/omw/tree/master/omw/compling.hss.ntu.edu.sg/omw
