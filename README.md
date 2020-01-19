@@ -1,5 +1,7 @@
 # omw
 
+Repo size: about 1.5 GB
+
 ## Part 1. A backup of Extended Open Multilingual Wordnet - Wordnet data
 
 A backup of http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz
@@ -16,4 +18,4 @@ Original data file:
 
 ## Part 2. A backup of entire web folder http://compling.hss.ntu.edu.sg/omw/ - Open Multilingual Wordnet
 
-See omw/ [TBD git push]
+See the folder omw/compling.hss.ntu.edu.sg/omw/
