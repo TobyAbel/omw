@@ -1,6 +1,6 @@
 # omw
 
-## Part 1. Extended Open Multilingual Wordnet - Wordnet data
+## Part 1. A backup of Extended Open Multilingual Wordnet - Wordnet data
 
 A backup of http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz
 
