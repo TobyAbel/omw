@@ -16,4 +16,4 @@ Original data file:
 
 ## Part 2. A backup of entire web folder http://compling.hss.ntu.edu.sg/omw/ - Open Multilingual Wordnet
 
-See omw/
+See omw/ [TBD git push]
