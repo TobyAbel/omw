@@ -1,4 +1,4 @@
-# omw
+# A backup of Open Multilingual Wordnet site and data files. Jan 20, 2020
 
 Repo size: about 1.5 GB
 
